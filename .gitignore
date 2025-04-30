@@ -28,3 +28,5 @@ next-env.d.ts
 .vercel
 # .gitignore
 .env.local
+
+.vercel
